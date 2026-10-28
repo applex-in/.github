@@ -10,7 +10,7 @@ We're the team behind [Utsav](https://utsavapp.in). A devotee anywhere in India 
 - **Two apps and a website** that take bookings, mandates and subscriptions through Razorpay, PayU and PhonePe, and don't flinch when a webhook arrives twice.
 - **An admin platform** the ops team lives in all day: puja schedules, video and prasad tracking, settlements, affiliates, WhatsApp campaigns.
 - **Services on GCP.** Node.js + TypeScript on GKE, Python + FastAPI on Cloud Run, Postgres on Cloud SQL, Redis, with AWS Lambda + SQS doing the async heavy lifting.
-- **A back office that is part human, part agent.** Marketing, SEO, BI, support, ads and push each have a Claude Code agent with its own context and skills, versioned like code. The monthly engineering report writes itself from git. Payout reconciliation is one command. Puja copy ships in five languages with a person approving every word.
+- **A back office that is part human, part agent.** Marketing, SEO, BI, support, ads and push each have a Claude Code agent with its own context and skills, versioned like code. The monthly engineering report writes itself from git. Puja copy ships in five languages with a person approving every word.
 
 ## How we work
 
